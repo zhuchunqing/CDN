@@ -1,0 +1,4 @@
+function()
+{
+	alter("111")
+}

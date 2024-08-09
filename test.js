@@ -1,4 +1,4 @@
 function()
 {
-	alter("1112")
+	alter("111")
 }
